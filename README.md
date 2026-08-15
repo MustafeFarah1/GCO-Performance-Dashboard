@@ -24,5 +24,6 @@ across 12 product lines.
 - Excel (data cleaning)
 
 # Insights
-CoreRack S200 drives the highest revenue ($32.73K) but below-average profit 
-margin, suggesting pricing optimization opportunity.
+CoreRack S200 sells the most — $32.73K in revenue. But it only brings in $8.75K in profit. That means for every dollar it makes, a lot of it goes to costs instead of staying as profit. CoreRack sells the most but doesn't earn the most. EnterpriseCore ERP makes more profit with half the sales. 
+
+
