@@ -26,6 +26,3 @@ across 12 product lines.
 # Insights
 CoreRack S200 drives the highest revenue ($32.73K) but below-average profit 
 margin, suggesting pricing optimization opportunity.
-
-## Author
-Mike - [LinkedIn] | [Email]
